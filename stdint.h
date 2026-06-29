@@ -13,6 +13,7 @@ typedef void   VOID;
 typedef float  FLOAT;
 typedef double DOUBLE;
 typedef long   LONG;
+typedef double DOUBLE;
 
 typedef BYTE*  LPBYTE;
 typedef WORD*  LPWORD;
